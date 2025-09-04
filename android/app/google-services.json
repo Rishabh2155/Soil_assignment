@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553950556862",
+    "project_id": "happy2-c2569",
+    "storage_bucket": "happy2-c2569.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553950556862:android:3b53d27860be8b373a24ef",
+        "android_client_info": {
+          "package_name": "com.example.soil_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4DV09NW5s1-YJdIe_09N98YMcbAS5gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553950556862:android:b09a7c21467c3e203a24ef",
+        "android_client_info": {
+          "package_name": "com.example.soil_health_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4DV09NW5s1-YJdIe_09N98YMcbAS5gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
